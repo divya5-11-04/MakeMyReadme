@@ -14,30 +14,13 @@
 
 Interactive Github readme maker/3D model maker
 
-## Features
-
-| Feature | What it does |
-|---|---|
-| **Fetch page** | Download a web page and return its text. |
-
-<details open>
-<summary><b>Getting started</b></summary>
-
-```bash
-git clone <your-repo-url>
-cd MakeMyReadme
-pip install requests
-python main.py
-```
-
-</details>
 
 <details>
 <summary><b>Project structure</b></summary>
 
 ```
 MakeMyReadme/
-├── main.py
+├── index.html
 ```
 
 </details>
