@@ -24,7 +24,3 @@ MakeMyReadme/
 ```
 
 </details>
-
-## License
-
-MIT
